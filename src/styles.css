@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+li {
+  padding: 15px;
+}
+
+.card {
+  padding: 1%;
+}
+.card > img {
+  width: 300px;
+}
+#content {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.pokemonName {
+  font-weight: 100;
+  font-size: 2.5em;
+}
+
+.header {
+  font-weight: 100;
+  font-size: 3em;
+  color: #ff524a;
+}
+
+.message {
+  font-size: 5em;
+  font-weight: bold;
+}
